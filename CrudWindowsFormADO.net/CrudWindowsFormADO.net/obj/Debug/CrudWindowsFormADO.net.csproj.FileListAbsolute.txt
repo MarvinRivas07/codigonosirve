@@ -1,0 +1,12 @@
+C:\Users\Marvi\Desktop\PROGRA ll\CrudWindowsFormADO.net\CrudWindowsFormADO.net\bin\Debug\CrudWindowsFormADO.net.exe.config
+C:\Users\Marvi\Desktop\PROGRA ll\CrudWindowsFormADO.net\CrudWindowsFormADO.net\bin\Debug\CrudWindowsFormADO.net.exe
+C:\Users\Marvi\Desktop\PROGRA ll\CrudWindowsFormADO.net\CrudWindowsFormADO.net\bin\Debug\CrudWindowsFormADO.net.pdb
+C:\Users\Marvi\Desktop\PROGRA ll\CrudWindowsFormADO.net\CrudWindowsFormADO.net\obj\Debug\CrudWindowsFormADO.net.csproj.AssemblyReference.cache
+C:\Users\Marvi\Desktop\PROGRA ll\CrudWindowsFormADO.net\CrudWindowsFormADO.net\obj\Debug\CrudWindowsFormADO.net.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marvi\Desktop\PROGRA ll\CrudWindowsFormADO.net\CrudWindowsFormADO.net\obj\Debug\CrudWindowsFormADO.net.Form1.resources
+C:\Users\Marvi\Desktop\PROGRA ll\CrudWindowsFormADO.net\CrudWindowsFormADO.net\obj\Debug\CrudWindowsFormADO.net.Properties.Resources.resources
+C:\Users\Marvi\Desktop\PROGRA ll\CrudWindowsFormADO.net\CrudWindowsFormADO.net\obj\Debug\CrudWindowsFormADO.net.csproj.GenerateResource.cache
+C:\Users\Marvi\Desktop\PROGRA ll\CrudWindowsFormADO.net\CrudWindowsFormADO.net\obj\Debug\CrudWindowsFormADO.net.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\Desktop\PROGRA ll\CrudWindowsFormADO.net\CrudWindowsFormADO.net\obj\Debug\CrudWindowsFormADO.net.exe
+C:\Users\Marvi\Desktop\PROGRA ll\CrudWindowsFormADO.net\CrudWindowsFormADO.net\obj\Debug\CrudWindowsFormADO.net.pdb
+C:\Users\Marvi\Desktop\PROGRA ll\CrudWindowsFormADO.net\CrudWindowsFormADO.net\obj\Debug\CrudWindowsFormADO.net.FrmNuevo.resources
